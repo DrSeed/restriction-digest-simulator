@@ -1,0 +1,13 @@
+sequence,enzyme,site,observed_per_mb,expected_per_mb_if_random
+random 50% GC,EcoRI,GAATTC,246,244.1
+random 50% GC,BamHI,GGATCC,268,244.1
+random 50% GC,MspI,CCGG,3980,3906.2
+random 50% GC,NotI,GCGGCCGC,16,15.3
+random 40% GC,EcoRI,GAATTC,321,324.0
+random 40% GC,BamHI,GGATCC,143,144.0
+random 40% GC,MspI,CCGG,1610,1600.0
+random 40% GC,NotI,GCGGCCGC,1,2.6
+"40% GC, CpG depleted (mammal-like)",EcoRI,GAATTC,252,324.0
+"40% GC, CpG depleted (mammal-like)",BamHI,GGATCC,146,144.0
+"40% GC, CpG depleted (mammal-like)",MspI,CCGG,539,1600.0
+"40% GC, CpG depleted (mammal-like)",NotI,GCGGCCGC,0,2.6
